@@ -1,0 +1,5 @@
+discord.py
+pytubefix
+ffmpeg
+python-dotenv
+asyncio 
